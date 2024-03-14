@@ -32,4 +32,22 @@ if (processEnv[2] == "-sum") {
     const num1 = parseInt(processEnv[3]);
     const num2 = +processEnv[4];
     sum(num1, num2);
-  }
+}
+
+if (processEnv[2] == "-res") {
+    const num1 = parseInt(processEnv[8]);
+    const num2 = +processEnv[2];
+    res(num1, num2);
+}
+
+if (processEnv[2] == "-mul") {
+    const num1 = parseInt(processEnv[3]);
+    const num2 = +processEnv[4];
+    mul(num1, num2);
+}
+
+if (processEnv[2] == "-div") {
+    const num1 = parseInt(processEnv[8]);
+    const num2 = +processEnv[2];
+    div(num1, num2);
+}
