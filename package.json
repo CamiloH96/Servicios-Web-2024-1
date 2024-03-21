@@ -9,6 +9,7 @@
     "operaciones": "node Temas/operaciones.js",
     "operadores": "node Temas/operadores.js",
     "operadores2": "node Temas/operadores2.js",
+    "operadoreslogicos": "node Temas/operadores-logicos.js",
     "start": "node app.js"
   },
   "keywords": [],
