@@ -10,6 +10,10 @@
     "operadores": "node Temas/operadores.js",
     "operadores2": "node Temas/operadores2.js",
     "operadoreslogicos": "node Temas/operadores-logicos.js",
+    "array": "node 10_04_2024/06_arrays.js",
+    "objeto": "node 10_04_2024/07_objetos.js",
+    "while": "node 10_04_2024/08_while.js",
+    "tabla": "node 10_04_2024/tabla_multiplicar.js",
     "start": "node app.js"
   },
   "keywords": [],
