@@ -14,6 +14,10 @@
     "objeto": "node 10_04_2024/07_objetos.js",
     "while": "node 10_04_2024/08_while.js",
     "tabla": "node 10_04_2024/tabla_multiplicar.js",
+    "dowhile": "node 24_04_2024/dowhile.js",
+    "for": "node 24_04_2024/for.js",
+    "fun1": "node Javascript_Programacion_Funcional/funcion.js",
+    "fun2": "node Javascript_Programacion_Funcional/funcion_fecha.js",
     "start": "node app.js"
   },
   "keywords": [],
